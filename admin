@@ -98,6 +98,5 @@ class App:
         Title.grid(row=0, pady=10, padx=10)
         cover_label.grid(row=2, pady=10, padx=10)
 
-window = tk.Tk()
-app = App(window)
-window.mainloop()
+hello 
+
